@@ -1,4 +1,4 @@
-Developer1 - manuel:
+Developer1 - Estaban David Villalobos:
 Creó la estructura de datos de los vuelos y realizó las validaciones correspondientes.
 
 Developer2 - Ivan Camilo Lara Ortiz:
@@ -7,5 +7,5 @@ Implementó la función para aplicar el descuento del 15 % y calcular el ingreso
 Developer3 - Ivan Camilo Lara Ortiz:
 Implementó la identificación de vuelos con baja ocupación y el procesamiento de los datos de los vuelos.
 
-Developer4 - Manuel:
+Developer4 - Manuel Peña:
 Implementó el ordenamiento de los vuelos, el cálculo del ingreso total global y la generación del reporte final.
